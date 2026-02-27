@@ -29,3 +29,9 @@
 | Tool | Description                                                   |
 |------|---------------------------------------------------------------|
 | snmp | Contains a variety of tools for interacting with SNMP servers |
+
+## All-in-one / Multi-purpose
+
+| Tool       | Description                                                    |
+|------------|----------------------------------------------------------------|
+| Metasploit | Collection of scanning tools, exploits, and post-exploit tools |
